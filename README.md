@@ -5,6 +5,6 @@
 
 ```plantuml
 @startuml
-:Hello world;
+:Hello worlddddd;
 @enduml
 ```
